@@ -4,8 +4,6 @@
 
 I'm just here creating what comes to mind and to keep a repository of my progress.
 
-<br>
-
 # 💫
 My pfp is made by my gf <3
 
