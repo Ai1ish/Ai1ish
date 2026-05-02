@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi :) 
+<img src= "https://raw.githubusercontent.com/Ai1ish/Ai1ish/refs/heads/main/ailish.svg" />
 
 I'm just here creating what comes to mind and to keep a repository of my progress.
 
