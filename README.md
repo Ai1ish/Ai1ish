@@ -1,24 +1,56 @@
+<div align="center">
+
 ## Hi :) 
 
 I'm just here creating what comes to mind and to keep a repository of my progress.
 
-<p align="center">
+<br>
+
 # 💫
+
+<br>
+
 My pfp is made by my gf <3
-</p>
+
+</div>
 
 <hr style="border:2px solid gray">
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ai1ish&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+# Tech Stack
+
+<br>
+
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br><br>
+
+# GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=false"/>
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+<br><br>
+
+# GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ai1ish&theme=dark&no-frame=false&no-bg=true&margin-w=4"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
