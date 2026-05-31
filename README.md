@@ -9,8 +9,6 @@ My pfp is made by my gf <3
 
 </div>
 
-<hr style="border:2px solid gray">
-
 <div align="center">
 
 # Tech Stack
@@ -24,19 +22,15 @@ My pfp is made by my gf <3
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<hr style="border:2px solid gray">
-
 # GitHub Stats
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=false"/>
+<img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
