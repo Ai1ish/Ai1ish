@@ -26,11 +26,11 @@ My pfp is made by my gf <3
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=false"/>
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 </div>
