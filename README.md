@@ -28,8 +28,6 @@ My pfp is made by my gf <3
 
 # GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=false"/>
@@ -38,11 +36,6 @@ My pfp is made by my gf <3
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-<br><br>
-
-# GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ai1ish&theme=dark&no-frame=false&no-bg=true&margin-w=4"/>
 
 </div>
 
