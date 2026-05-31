@@ -14,7 +14,6 @@ My pfp is made by my gf <3
 <div align="center">
 
 # Tech Stack
-
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
@@ -31,9 +30,6 @@ My pfp is made by my gf <3
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=Ai1ish&theme=dark&hide_border=false"/>
-
-<br>
-
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ai1ish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 
